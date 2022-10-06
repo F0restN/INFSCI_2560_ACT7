@@ -1,0 +1,27 @@
+.header-paragraph {
+	background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+		url(./assets/batman_background_header.jpg);
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	text-align: center;
+}
+
+.header-paragraph h1 {
+	color: #fff;
+	padding-top: 10%;
+	font-size: 60px;
+	font-style: italic;
+}
+
+.header-paragraph p {
+	color: #fff;
+	/* margin-top: 15px; */
+	padding-bottom: 10%;
+	font-style: italic;
+}
+
+/* .foot-article {
+	font: bold;
+	font-size: 20px;
+} */
